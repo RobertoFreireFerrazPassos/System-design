@@ -1,5 +1,3 @@
-# -
-
  - Read-heavy systems? Use a Cache
  - Low-latency needs? Combine Cache & CDN
  - Write-heavy systems? Implement a Message Queue for async processing
