@@ -31,3 +31,6 @@
  - Large-scale connections? Optimize with Connection Pooling & Protobuf
  - Preventing system overload? Use Token Bucket & Leaky Bucket algorithms
  - Zero-downtime deployments? Apply Blue-Green Deployment
+
+
+ https://github.com/RobertoFreireFerrazPassos/Interview-Full-Stack/tree/main/systemdesign
