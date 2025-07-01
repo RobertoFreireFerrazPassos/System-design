@@ -1,1 +1,35 @@
 # -
+
+✅ Read-heavy systems? Use a Cache
+ ✅ Low-latency needs? Combine Cache & CDN
+ ✅ Write-heavy systems? Implement a Message Queue for async processing
+ ✅ ACID compliance? Choose RDBMS/SQL
+ ✅ Unstructured data? Go for NoSQL
+ ✅ Handling large files (videos, images)? Use Blob/Object Storage
+ ✅ Complex pre-computation (e.g., news feed)? Combine Message Queue & Cache
+ ✅ High-volume search? Implement Elasticsearch, Tries, or Search Indexing
+ ✅ Scaling SQL databases? Consider Sharding
+ ✅ High availability & performance? Use a Load Balancer
+ ✅ Global data delivery? Leverage a CDN
+ ✅ Graph-based relationships? Choose a Graph Database
+ ✅ Scaling components? Implement Horizontal Scaling
+ ✅ High-performance queries? Optimize with Database Indexes
+ ✅ Bulk processing? Use Batch Processing & Message Queues
+ ✅ Preventing DDoS attacks? Apply a Rate Limiter
+ ✅ Microservices? Use an API Gateway
+ ✅ Single point of failure? Implement Redundancy
+ ✅ Fault tolerance? Ensure Data Replication
+ ✅ Real-time communication? Use WebSockets
+ ✅ Distributed failure detection? Implement Heartbeat
+ ✅ Ensuring data integrity? Apply Checksum Algorithm
+ ✅ Decentralized data transfer? Use Gossip Protocol
+ ✅ Efficient server scaling? Implement Consistent Hashing
+ ✅ Location-based features? Use Geohash or Quadtree
+ ✅ High availability vs consistency? Eventual Consistency is key
+ ✅ Handling large network requests? Implement Pagination
+ ✅ Cache eviction? Use LRU (Least Recently Used)
+ ✅ Handling traffic spikes? Implement Autoscaling
+ ✅ Analytics & audit trails? Store in Data Lakes
+ ✅ Large-scale connections? Optimize with Connection Pooling & Protobuf
+ ✅ Preventing system overload? Use Token Bucket & Leaky Bucket algorithms
+ ✅ Zero-downtime deployments? Apply Blue-Green Deployment
